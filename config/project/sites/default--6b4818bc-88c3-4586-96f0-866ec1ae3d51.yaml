@@ -1,0 +1,8 @@
+baseUrl: $PRIMARY_SITE_URL
+handle: default
+hasUrls: true
+language: en-US
+name: testing
+primary: true
+siteGroup: e008e1fb-da53-41a0-9793-a0de8082d504 # testing
+sortOrder: 1
